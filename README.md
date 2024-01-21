@@ -64,3 +64,4 @@ https://plugins.jenkins.io/ghprb/
 
 https://github.com/jenkinsci/ghprb-plugin
 
+exit
