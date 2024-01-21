@@ -56,4 +56,11 @@ click on trigger setup add below like this
 Now go to manage jenkins and select configure and search for github pull request builder please provide personal access token here as  a secrete and click on test api connection
 <img width="881" alt="image" src="https://github.com/harsha-209/pullrequest-jenkins/assets/51083187/2882a484-1ac3-4879-abd6-3cff5acabde4">
 
+git hub webhook setup and provide personal access token here
+<img width="557" alt="image" src="https://github.com/harsha-209/pullrequest-jenkins/assets/51083187/7952e262-3911-4d36-8fae-04a158fd77e9">
+
+
+https://plugins.jenkins.io/ghprb/
+
+https://github.com/jenkinsci/ghprb-plugin
 
